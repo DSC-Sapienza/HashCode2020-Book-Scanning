@@ -22,5 +22,5 @@ cat problem.txt > python3 hashcode.py
 ## Authors
 
 *   **Andrea Bacciu**  - [github](https://github.com/andreabac3)
-*   **Riccardo Taiello**  - [github](https://github.com/Riccardinho22)
 *   **Alessandro Scandone**  - [github](https://github.com/ascandone)
+*   **Riccardo Taiello**  - [github](https://github.com/Riccardinho22)
