@@ -23,3 +23,4 @@ cat problem.txt > python3 hashcode.py
 
 *   **Andrea Bacciu**  - [github](https://github.com/andreabac3)
 *   **Riccardo Taiello**  - [github](https://github.com/Riccardinho22)
+*   **Alessandro Scandone**  - [Github profile](https://github.com/ascandone)
