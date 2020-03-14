@@ -13,11 +13,11 @@ Task
 Given a description of libraries and books available, plan which books to scan from which library to maximize the total score of all scanned books, taking into account that each library needs to be signed up before it can ship books.
 ## Usage
 ```sh
-cat problem.txt > python3 hashcode.py
+cat problem/problem.txt > python3 hashcode.py
 ```
 
 ## Score
-![hashcode2020_score](hashcode2020_score.png)
+![hashcode2020_score](extra/hashcode2020_score.png)
 
 ## Authors
 
